@@ -1,5 +1,5 @@
 # distance_apriltag
-This the join of two projects
+This code merges two projects
 
 https://github.com/reinhartmeg/AprilTag-Distance-Calculator<br><br>
 and<br><br>
