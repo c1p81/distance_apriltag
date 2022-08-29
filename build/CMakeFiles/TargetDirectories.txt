@@ -1,0 +1,17 @@
+/root/apriltags/build/CMakeFiles/tmp.dir
+/root/apriltags/build/CMakeFiles/apriltags.dir
+/root/apriltags/build/CMakeFiles/edit_cache.dir
+/root/apriltags/build/CMakeFiles/rebuild_cache.dir
+/root/apriltags/build/CMakeFiles/list_install_components.dir
+/root/apriltags/build/CMakeFiles/install.dir
+/root/apriltags/build/CMakeFiles/install/local.dir
+/root/apriltags/build/CMakeFiles/install/strip.dir
+/root/apriltags/build/example/CMakeFiles/apriltags_demo.dir
+/root/apriltags/build/example/CMakeFiles/realsense_apriltag.dir
+/root/apriltags/build/example/CMakeFiles/imu.dir
+/root/apriltags/build/example/CMakeFiles/edit_cache.dir
+/root/apriltags/build/example/CMakeFiles/rebuild_cache.dir
+/root/apriltags/build/example/CMakeFiles/list_install_components.dir
+/root/apriltags/build/example/CMakeFiles/install.dir
+/root/apriltags/build/example/CMakeFiles/install/local.dir
+/root/apriltags/build/example/CMakeFiles/install/strip.dir

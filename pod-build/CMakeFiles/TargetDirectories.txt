@@ -1,0 +1,16 @@
+/root/apriltags/pod-build/CMakeFiles/tmp.dir
+/root/apriltags/pod-build/CMakeFiles/apriltags.dir
+/root/apriltags/pod-build/CMakeFiles/edit_cache.dir
+/root/apriltags/pod-build/CMakeFiles/rebuild_cache.dir
+/root/apriltags/pod-build/CMakeFiles/list_install_components.dir
+/root/apriltags/pod-build/CMakeFiles/install.dir
+/root/apriltags/pod-build/CMakeFiles/install/local.dir
+/root/apriltags/pod-build/CMakeFiles/install/strip.dir
+/root/apriltags/pod-build/example/CMakeFiles/apriltags_demo.dir
+/root/apriltags/pod-build/example/CMakeFiles/imu.dir
+/root/apriltags/pod-build/example/CMakeFiles/edit_cache.dir
+/root/apriltags/pod-build/example/CMakeFiles/rebuild_cache.dir
+/root/apriltags/pod-build/example/CMakeFiles/list_install_components.dir
+/root/apriltags/pod-build/example/CMakeFiles/install.dir
+/root/apriltags/pod-build/example/CMakeFiles/install/local.dir
+/root/apriltags/pod-build/example/CMakeFiles/install/strip.dir
